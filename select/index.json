@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Careless Whisper (Official Video)",
+  "base_artist": "George Michael",
+  "createdAt": "2025-12-23T06:13:07.495880Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Careless Whisper",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/01_Careless_Whisper_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Careless Whisper",
+      "artist": "Wham!",
+      "has_synced": true,
+      "path": "select/02_Careless_Whisper_Wham!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Careless Whisper",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Dave Koz",
+      "has_synced": true,
+      "path": "select/03_Careless_Whisper_Scott_Bradlee's_Postmodern_Jukebox_feat._Dave_Koz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Careless Whisper",
+      "artist": "George Michael",
+      "has_synced": true,
+      "path": "select/04_Careless_Whisper_George_Michael.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Careless Whisper",
+      "artist": "Indiana",
+      "has_synced": true,
+      "path": "select/05_Careless_Whisper_Indiana.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Careless Whisper",
+      "artist": "Seether",
+      "has_synced": true,
+      "path": "select/06_Careless_Whisper_Seether.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Careless Whisper",
+      "artist": "George Michael",
+      "has_synced": true,
+      "path": "select/07_Careless_Whisper_George_Michael.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Careless Whisper",
+      "artist": "George Michael",
+      "has_synced": true,
+      "path": "select/08_Careless_Whisper_George_Michael.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Careless Whisper",
+      "artist": "Seether",
+      "has_synced": true,
+      "path": "select/09_Careless_Whisper_Seether.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Careless Whisper",
+      "artist": "George Michael",
+      "has_synced": true,
+      "path": "select/10_Careless_Whisper_George_Michael.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Careless Whisper",
+      "artist": "Seether",
+      "has_synced": true,
+      "path": "select/11_Careless_Whisper_Seether.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Careless Whisper",
+      "artist": "Wham!",
+      "has_synced": false,
+      "path": "select/12_Careless_Whisper_Wham!.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Careless Whisper",
+      "artist": "George Michael",
+      "has_synced": true,
+      "path": "select/13_Careless_Whisper_George_Michael.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Careless Whisper",
+      "artist": "Barry Manilow",
+      "has_synced": true,
+      "path": "select/14_Careless_Whisper_Barry_Manilow.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Careless Whisper",
+      "artist": "George Michael",
+      "has_synced": false,
+      "path": "select/pl_01_Careless_Whisper_George_Michael.txt"
+    }
+  ]
+}
